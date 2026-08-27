@@ -4,4 +4,4 @@ A bilingual personal portfolio showcasing my research in LiDAR perception, SLAM,
 
 ## Website
 
-[Visit my personal website](https://wei-gao-robotics.gaowei910.chatgpt.site/)
+[Visit my personal website](https://god-vv.github.io/)
